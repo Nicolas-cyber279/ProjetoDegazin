@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../SetupDegazin/SetupDegazin.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="ProjetoDegazin.csproj" Id="5493cf6c-bfe1-4770-9970-d35e10eb7d2b" />
+</Solution>
